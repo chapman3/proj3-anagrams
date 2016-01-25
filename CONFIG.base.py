@@ -5,7 +5,7 @@ on your development platform or on ix.cs.uoregon.edu
 (or on a different deployment target) shoudl be here.
 """
 DEBUG = True
-PORT = 5000 # Replace with a randomly chosen port 
+PORT = 7613 # Replace with a randomly chosen port
 SUCCESS_COUNT = 2  # How many matches do we require? 
 #   Obtain a cookie key with 
 #   import uuid
